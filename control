@@ -1,0 +1,9 @@
+Package: com.trc.ipad11
+Name: ipad11
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: trc
+Author: trc
+Section: Tweaks
